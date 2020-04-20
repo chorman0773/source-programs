@@ -13,3 +13,57 @@
 [submodule "git"]
 	path = git
 	url = https://github.com/git/git.git
+[submodule "lua"]
+	path = lua
+	url = https://github.com/lua/lua.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "curl"]
+	path = curl
+	url = https://github.com/curl/curl.git
+[submodule "SDL"]
+	path = SDL
+	url = https://github.com/SDL-mirror/SDL.git
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/llvm/llvm-project.git
+[submodule "m4"]
+	path = m4
+	url = http://git.savannah.gnu.org/r/m4.git
+[submodule "libtool"]
+	path = libtool
+	url = git://git.savannah.gnu.org/libtool.git
+[submodule "readline"]
+	path = readline
+	url = https://git.savannah.gnu.org/git/readline.git
+[submodule "llvm"]
+	path = llvm
+	url = git@github.com:llvm-project/llvm.git
+[submodule "gcc"]
+	path = gcc
+	url = git@github.com:gcc-mirror/gcc.git
+[submodule "gmp"]
+	path = gmp
+	url = git@github.com:alisw/GMP.git
+[submodule "mpfr"]
+	path = mpfr
+	url = git@github.com:BrianGladman/mpfr.git
+[submodule "zlib"]
+	path = zlib
+	url = git@github.com:madler/zlib.git
+[submodule "mpc"]
+	path = mpc
+	url = https://scm.gforge.inria.fr/anonscm/git/mpc/mpc.git
+[submodule "bison"]
+	path = bison
+	url = git@github.com:akimd/bison.git
+[submodule "flex"]
+	path = flex
+	url = git@github.com:westes/flex.git
+[submodule "tor"]
+	path = tor
+	url = https://github.com/torproject/tor.git
+[submodule "libevent"]
+	path = libevent
+	url = https://github.com/libevent/libevent.git
